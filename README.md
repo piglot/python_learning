@@ -1,4 +1,1 @@
-python_test
-===========
-
-This is a repository of my python test.
+My python learning code here.
